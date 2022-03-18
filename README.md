@@ -1,1 +1,1 @@
-# rsschool-cv-2022
+# https://Nata012345.github.io/rsschool-cv-2022/cv
