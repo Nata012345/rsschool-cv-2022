@@ -16,3 +16,10 @@ I live in great IT time when everything change so fast and the Internet takes a 
   - Git/GitHub
   - Figma
   - VS Code
+
+  ## Education
+  - 1999-2003, Belarusian Trade and Economics University, accountant
+  - Codecademy cource, Learn HTML 
+
+  ## English
+  - B2 (International English Language Testing System, 2021)
